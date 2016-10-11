@@ -10,3 +10,12 @@ Bayesian Program Learning
 * [Towards more human-like concept learning in machines: Compositionality, causality, and learning-to-learn](./论文资源/LakePhDThesis.pdf/)
 * [One-shot learning by inverting a compositional causal process](./论文资源/lake_nips2013.pdf/)
 * [One-shot learning of generative speech concepts](./论文资源/lake-cogsci14.pdf/)
+
+###论文翻译
+
+###代码分析
+
+###其他资料
+
+* [作者主页](http://cims.nyu.edu/~brenden/)
+* [PyBPL](https://github.com/MaxwellRebo/PyBPL)
