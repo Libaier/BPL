@@ -11,7 +11,9 @@ Bayesian Program Learning
 * [One-shot learning by inverting a compositional causal process](./论文资源/lake_nips2013.pdf/)
 * [One-shot learning of generative speech concepts](./论文资源/lake-cogsci14.pdf/)
 
-###论文翻译
+###论文笔记
+
+* [Supplementary Material翻译](https://www.zybuluo.com/Libaier/note/528163)
 
 ###代码分析
 
